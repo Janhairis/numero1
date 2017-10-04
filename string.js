@@ -219,3 +219,6 @@
 // }
 // console.log(makeTriangle(5))
 
+
+//Authored by Jan
+
